@@ -11,14 +11,14 @@ class FileList:
         with open('existing_files.txt', 'r') as file_list:
             existing_files = set(file for file in file_list)
         
-        print(f'EXISTING FILES: {existing_files}')
+        # print(f'EXISTING FILES: {existing_files}')
         # get all files in a set
         all_files = set(os.path.join(folder_path, f+'\n') for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f)))
-        print(f'ALL FILES: {all_files}')
+        # print(f'ALL FILES: {all_files}')
 
         # get new files in a set
         new_files = all_files - existing_files
-        print(f'NEW FILES: {new_files}')
+        # print(f'NEW FILES: {new_files}')
 
         # create a new file containing the newly added files.
         with open('new_files.txt', 'w') as file_list:
