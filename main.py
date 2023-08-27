@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #!/usr/bin/python3
 import os
 from get_new_files import FileList
