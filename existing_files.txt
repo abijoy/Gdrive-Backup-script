@@ -6,3 +6,14 @@
 /home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file5.txt
 /home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file2.txt
 /home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file8.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/3209181.jpg
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/lotr1.jpeg
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file9.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file10.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file11txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file12.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file13.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/file14.txt
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/resume-alamin-csecu.pdf
+/home/alamin/Documents/DevOPS/Important/BackUpImortantFiles/17701087-Thesis-Presentation.pptx
